@@ -3,7 +3,7 @@ import { Navbar } from "../../ui"
 import { DCPage, HeroPage, MarvelPage, SearchPage } from "../pages"
 
 
-export const HeroresRoutes = () => {
+export const HeroesRoutes = () => {
    return (
       <>
          <Navbar />
